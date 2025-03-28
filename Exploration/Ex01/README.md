@@ -10,7 +10,7 @@
     - ![image](https://github.com/user-attachments/assets/0b08bc9a-2299-44cd-87b0-9b69cfd582a9)
 
     
-- [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
+- [ O ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
      - gradient 함수에 대한 개념을 자세하게 설명해주셨고 코드를 완벽하게 이해하고 있었습니다.
      - ![image](https://github.com/user-attachments/assets/bd03dada-edce-47ac-9aa2-8b6b908ccd5e)
