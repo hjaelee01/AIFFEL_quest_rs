@@ -7,18 +7,18 @@
     - 1프로젝트에서 MSE 3000이상을 달성해야되는데 3090으로 아쉽게 달성하지 못하였습니다..
     - 2프로젝트에서 x_train, y_train이 아니라 전체 데이터를 넣어서 학습하였습니다.
     - 2프로젝트의 rmse는 성능을 달성하였지만 전체 데이터가 학습된 상태라 오류가 있었습니다..
-    - ![image](https://github.com/user-attachments/assets/0b08bc9a-2299-44cd-87b0-9b69cfd582a9)
+    - ![image1](image1.jpg)
 
     
 - [ O ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
      - gradient 함수에 대한 개념을 자세하게 설명해주셨고 코드를 완벽하게 이해하고 있었습니다.
-     - ![image](https://github.com/user-attachments/assets/bd03dada-edce-47ac-9aa2-8b6b908ccd5e)
+     - ![image](image2.jpg)
         
 - [ O ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
     - 행렬의 평균을 구하는 과정에서 오류가 떴는데 해결하기 위해서 ```mean()```함수르 사용
-    ![image](https://github.com/user-attachments/assets/521986ad-d3b0-4b57-8346-732f66d8c6d7)
+    ![image3](image3.jpg)
         
 - [ O ]  **4. 회고를 잘 작성했나요?**
     - 배운점과 느낀점이 기록되어 있지는 않지만 각 코드를 리뷰하면서 같이 설명해주셨습니다.
